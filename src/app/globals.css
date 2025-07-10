@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+>>>>>>> 1cca91a (Clean enterprise Next.js + Tailwind setup at root)
 :root {
   --background: #ffffff;
   --foreground: #171717;
